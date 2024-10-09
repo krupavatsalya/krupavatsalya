@@ -5,9 +5,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://github.com/yourprofile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vatsalya-mandagiri-8a72b3237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://github.com/krupavatsalya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
+  <a href="mailto:krupavatsalya25@gmail.com"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">📚 Certifications:</h3>
