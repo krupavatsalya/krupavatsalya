@@ -14,6 +14,5 @@
 <ul>
   <li><a href="https://coursera.org/share/2116c6aee86327f5bb17189206e3a2e5" target="_blank">Python Data Structures (Coursera)</a></li>
   <li><a href="https://coursera.org/share/87d53bc6196fbae7cbce22fb754c960c" target="_blank">Reliable Google Cloud Infrastructure: Design and Process (Coursera)</a></li>
-  <li><a href="https://coursera.org/share/1a2af3859af10addd3062a2748f25573" target="_blank">Google Cloud Fundamentals: Core Infrastructure (Coursera)</a></li>
-  <li><a href="" target="_blank">Python Data Structures (NPTEL)</a></li>
+
 </ul>
